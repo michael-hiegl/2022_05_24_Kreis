@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\Users\micha\source\repos\2022_05_24_Kreis\2022_05_24_Kreis\Main.c(43,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\micha\source\repos\2022_05_24_Kreis\2022_05_24_Kreis\Main.c(49,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\micha\source\repos\2022_05_24_Kreis\2022_05_24_Kreis\Main.c(50,9): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  2022_05_24_Kreis.vcxproj -> C:\Users\micha\source\repos\2022_05_24_Kreis\x64\Debug\2022_05_24_Kreis.exe
